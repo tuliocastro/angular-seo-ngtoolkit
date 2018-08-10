@@ -11,4 +11,5 @@ Check the full article in: http://techblog.fexcofts.com/2018/08/10/angular-seo-u
 ## Run Project
 
 `` npm run build:prod``
+
 `` npm run serve ``
