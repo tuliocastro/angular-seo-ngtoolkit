@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
-const ADDRESS = "http://www.mocky.io/v2/5b6d76393300006a1ea36df1";
+const ADDRESS = "https://jsonplaceholder.typicode.com/posts";
 
 @Injectable({
   providedIn: 'root'

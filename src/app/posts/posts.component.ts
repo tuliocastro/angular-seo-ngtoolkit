@@ -14,7 +14,6 @@ export class PostsComponent implements OnInit {
 
   ngOnInit() {
     this.posts = this.route.snapshot.data.posts;
-    console.log(this.posts);
   }
 
 }
